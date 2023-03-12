@@ -12,3 +12,6 @@ It collects the toll amount from the database which links with the car owner.
 Image Processing includes resizing, Canny edgeding, Gray-scale, Denoising.
 
 
+
+
+![image](https://user-images.githubusercontent.com/90211671/224523748-aa8c4935-4e90-4083-ba75-25f4069e4acb.png)
