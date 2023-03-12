@@ -1,0 +1,4 @@
+gaussian blur -> grayscale -> vertical edges -> binarize the image using Otsu’s Thresholding -> Closing Morphological Transformation -> 
+finding contours(before that image should be morphed and binarize) -> find minimum rectangle area(area of number plate: 4500-30000) ->
+clean_plate and ratioCheck method of class PlateFinder -> number plate is ready -> HSV format -> adaptive thresholding and find characters
+-> bitwise not operation on -> 
